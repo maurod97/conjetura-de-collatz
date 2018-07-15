@@ -1,0 +1,8 @@
+**Conjetura de Collatz o conjetura de 3n+1**
+
+Elije un número natural (n) y realiza los siguientes cálculos.
+
+»Si *n* es **par** se divide por dos.
+»Si *n* es **impar** se multiplica por 3 y se le suma 1.
+
+Se repite el proceso con el número obtenido hasta llegar a uno.
